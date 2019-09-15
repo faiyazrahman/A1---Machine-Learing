@@ -1,0 +1,11 @@
+Author: Faiyaz Rahman
+Date: 14/09/2019
+Project: "The Human Movement Recognition Project"
+Version: ~ 4.7
+All sourcce files can be found in the repository: https://github.com/flyboiii/A1
+
+Due to the size of the files only "The Human Movement Recognition Project" and "The Human Movement Recognition Project.ipynb" files are uploaded.
+
+The DaLiAc datasets are not included due to large size. The ipynb file must be in the same folder with the "daliac" folder in order for the python codes to work. 
+
+Code refactoring has been imlemented to: "The Human Movement Recognition Project.ipynb" 
